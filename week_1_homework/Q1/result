@@ -1,0 +1,4 @@
+1.  docker build -t test:q1 .
+2.  docker run -it test:q1 
+    2.1 pip --version
+Output : pip 24.3.1 from /usr/local/lib/python3.12/site-packages/pip (python 3.12)
