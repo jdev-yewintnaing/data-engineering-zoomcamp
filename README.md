@@ -34,8 +34,8 @@
 
 1. **Navigate to the Notebooks:**
    - To upload the data, open the following notebooks in Jupyter or your preferred environment:
-     - [Upload Green Trip Data](upload_green_trip_data.ipynb)
-     - [Upload Taxi Zone Lookup](upload_taxi_zone_lookup.ipynb)
+     - [Upload Green Trip Data](/week_1_homework/upload_green_trip_data.ipynb)
+     - [Upload Taxi Zone Lookup](/week_1_homework/upload_taxi_zone_lookup.ipynb)
 
 2. **Run Notebooks:**
    - Ensure the datasets (`green_tripdata_2019-10.csv` and `taxi_zone_lookup.csv`) are present in the `week_1_homework/` folder relative to the notebooks.
