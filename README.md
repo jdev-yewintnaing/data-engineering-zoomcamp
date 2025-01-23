@@ -23,12 +23,6 @@
    - Jupyter Notebook for uploading the taxi zone lookup data.
    - **Relative Path:** `week_1_homework/upload_taxi_zone_lookup.ipynb`
 
-6. **`.gitignore`:**
-   - Contains rules for ignoring files in Git.
-
-7. **`README.md`:**
-   - This documentation file.
-   - **Relative Path:** `week_1_homework/README.md`
 
 ## Instructions
 
